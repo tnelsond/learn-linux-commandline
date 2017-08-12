@@ -1,0 +1,7 @@
+Written in 2017 by Thomas Downs <tnelsond@gmail.com>
+
+Creative Commons 0
+To the extent possible under law, the author(s) have dedicated all copyright
+and related and neighboring rights to this software to the public domain
+worldwide. THIS SOFTWARE IS DISTRIBUTED WITHOUT ANY WARRANTY.
+<http://creativecommons.org/publicdomain/zero/1.0/>
